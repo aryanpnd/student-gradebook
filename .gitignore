@@ -1,4 +1,4 @@
 *.class
 *.txt
 ~$report.docx
-~WRL1145.tmp
+*.tmp
